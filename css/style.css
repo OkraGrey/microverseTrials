@@ -1,0 +1,35 @@
+*{
+    /* margin: 0; */
+    padding: 0;
+    box-sizing: border-box;
+}
+#main{
+    background-color: rgb(158, 167, 175);
+}
+#title{
+    text-align: center;
+    margin-bottom: 10px;
+}
+#titl{
+    text-align: center;
+}
+#img-div{
+    width: 90%;
+    height: auto;
+    background-color: white;
+    margin: auto;
+
+}
+#image{
+    margin: auto;
+    display: flex;
+}
+#img-caption{
+    text-align: center;
+    font-size: large;
+
+}
+#tribute-info{
+    font-weight: bold;
+    text-align: center;
+}
