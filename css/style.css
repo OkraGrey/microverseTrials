@@ -22,7 +22,11 @@
 }
 #image{
     margin: auto;
-    display: flex;
+    display: block;
+    max-width:100%;
+    height: auto;
+    position: relative;
+    align-items: center;
 }
 #img-caption{
     text-align: center;
@@ -32,4 +36,12 @@
 #tribute-info{
     font-weight: bold;
     text-align: center;
+}
+
+#tribute-link{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    width: auto;
+    margin: auto;
 }
